@@ -1,0 +1,222 @@
+---
+icon: write
+date: 2022-12-04
+---
+
+# 2022年
+
+## [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/) | [神奇动物 3：邓布利多之谜](https://movie.douban.com/subject/26147418/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:   
+    > 异常平庸的剧情，主角光环笼罩。没有计划，凭啥能把真的保留到最后？真就把观众智商降至幼稚园，然后肆意揉捏。  
+    > 哈利波特这个世界，越塑造越没味道了。到这部，魔法师打架已经是激光炮互相扫射，魔杖就是个炮管，咒语手势全都丢到火星去了。  
+- Watch: 2022-06-05
+
+## [目中无人](https://movie.douban.com/subject/35295405/)
+- Rate: ![6/10](/assets/icon/30_star.png)
+- Review:
+    > 镜头语言很有些味道，男主的表演也算不错，可惜剧情和逻辑配不上。全片战神却睡死不醒，十年捉刀但突发脑梗。  
+    > 别说千年前的唐朝，就算是当代的中国，人民一样是被中共及其狗腿子们肆意欺压和鱼肉，又能如何？  
+    > 中国文艺界全是一群烂泥，一点现实问题不敢面对，只会阿谀奉承粉饰太平。  
+- Watch: 2022-06-05
+
+## [Man on the Edge](https://www.imdb.com/title/tt18500636/) | [边缘行者](https://movie.douban.com/subject/35192672/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+    > 看看在中共荼毒之下的港片，连黑社会都不会拍了。  
+    > 前2/3虽然节奏差剧情烂，但起码还没出圈。最后这自爆真是离谱的恶臭。  
+- Watch: 2022.06.12
+
+## [Song of the Assassins](https://www.imdb.com/title/tt8032932/) | [青面修罗](https://movie.douban.com/subject/26926448/) 
+   - Rate: ![1/10](/assets/icon/05_star.png)
+   - Review:
+     ```
+     一句话点评：烂片
+     ```
+   - Watch: 2022.06.17
+ 
+## [Morbius](https://www.imdb.com/title/tt5108870/) | [暗夜博士：莫比亚斯](https://movie.douban.com/subject/27199850/) 
+   - Rate: ![4/10](/assets/icon/20_star.png)
+   - Review:
+     ```
+     众所周知，超英是烂片大本营。这部剧情太传lao统tao，加一点B级镜头，并不能引起观众尖叫。
+     ```
+   - Watch: 2022.06.18
+
+## [Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/) | [瞬息全宇宙](https://movie.douban.com/subject/30314848/)
+   - Rate: ![6/10](/assets/icon/30_star.png)
+   - Review:
+     ```
+     剧情过于眼花缭乱，其精神内核却非常的传统，导致全片有点像是精神病人的呓语。
+     ```
+   - Watch: 2022.06.24
+
+
+## [To yuk hing dai 3](https://www.imdb.com/title/tt20752126/) | [逃狱兄弟3](https://movie.douban.com/subject/35908037/)
+   - Rate: ![3/10](/assets/icon/15_star.png)
+   - Review:
+     ```
+     在中共的荼毒之下，香港连监狱片都拍的这么娘炮。
+     ```
+   - Watch: 2022.06.25
+ 
+## [Doctor Strange in the Multiverse of Madness](https://www.imdb.com/title/tt9419884/) | [奇异博士2：疯狂多元宇宙](https://movie.douban.com/subject/30304994/)
+   - Rate: ![4/10](/assets/icon/20_star.png)
+   - Review:
+     ```
+     现在的超英片，特效都开始非常敷衍了，独眼怪的片段能让观众非常明显看出来特效和演员的隔离。
+     剧本，嗯超英片要什么剧本。使劲打就行了。主角全程变身跑跑，最后两句话感化大反派。绯红女巫这么牛逼，当初灭霸是怎么打的？
+     ```
+   - Watch: 2022.07.02
+
+
+## [Incantation](https://www.imdb.com/title/tt18968540/) | [咒](https://movie.douban.com/subject/34850561/)
+   - Rate: 510
+   - Review:
+     ```
+     氛围和悬念都差一口气，始终吊着但就是通不了。
+     ```
+   - Watch: 2022.07.17
+  
+## [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/) | [侏罗纪世界3](https://movie.douban.com/subject/26873582/?from=showing)
+   - Rate: 4/0
+   - Review:
+     ```
+     莫名其妙的剧情，敷衍潦草的特效。
+     ```
+   - Watch: 2020.07.17
+
+## [Anna](https://www.imdb.com/title/tt21146902/) | [安娜](https://movie.douban.com/subject/35524387/)
+   - Rate: 6/10
+   - Review:
+     ```
+     光看冷脸女主就行了。
+     剧情、逻辑、节奏，基本都是二流水准。很简单的故事线，戏剧冲突也不强。
+     ```
+   - Watch: 2020.07.20
+
+## [Stranger](https://www.imdb.com/title/tt6461346/?ref_=tt_ov_inf) | [秘密森林2](https://movie.douban.com/subject/34815544/)
+   - Rate: 6/10
+   - Review:
+     ```
+     说实话，有些失望。本来好好的法律剧，变成了时政剧，配上缓慢的节奏，前两集非常劝退。
+     虽然最后把几个案件串联起来了，但我只能说是非常勉强。
+     而且，整部剧看下来，最突出的感觉是时政剧却塑造了几个天仙主角。现实中如果遇到这种“老鼠屎”类的猪队友，我只能说赶紧踢掉。
+     ```
+   - Watch: 2022.07.28
+
+## [Prey](https://www.imdb.com/title/tt11866324/) | [铁血战士：猎物](https://movie.douban.com/subject/35262994/)
+   - Rate: 2/10
+   - Review:
+     ```
+     铁血战士：脸都不要了，还要什么脑子。
+     ```
+   - Watch: 2022.08.07
+
+## [Hospital Playlist](https://www.imdb.com/title/tt11769304/) | 机智医生生活 [第一季](https://movie.douban.com/subject/34607516/) [第二季](https://www.douban.com/doubanapp/dispatch?uri=/tv/35049544)
+   - Rate: 7/10
+   - Review:
+     ```
+     盛名之下，其实.....
+     剧情仍旧是温馨向，抓住一切可能的机会穿插小桥段，或搞笑或卖萌。几个主演之间的友谊也营造的很好。第二季也算是补完成了真~合家欢结局。
+     但是，
+     浓妆艳抹的剧情也同样导致了人物苍白故事虚浮，剧中的人和事完全被扭曲，造成整剧没有烟火味。这也是本剧与《请回答1988》那种的传世剧集最大的差距，甚至是不如《机智监狱生活》。
+     ```
+   - Watch: 2022.08.15
+
+
+## [Lie tu](https://www.imdb.com/title/tt18360390/) | [猎屠](https://movie.douban.com/subject/35083319/)
+   - Rate: 1/10
+   - Review:
+     ```
+     中国电影一向把观众当猪宰，传统艺能了
+     ```
+   - Watch: 2022.08.27
+
+## [Detective vs. Sleuths](https://www.imdb.com/title/tt10283270/) | [神探大战](https://movie.douban.com/subject/26995893/)
+   - Rate: 4/10
+   - Review:
+     ```
+     剧本的想法很好，如果认真思考剧情，确实有一些片段很有味道。
+     可惜的是，导演完全配不上这个剧本。剪辑纷杂，节奏混乱。虽然刘青云很卖力的在表演，但那种歇斯底里的精神状态，也不能让观众信服这个角色还有正常的判断力。
+     ```
+   - Watch: 2022.08.28
+
+## [Lighting up the Stars](https://www.imdb.com/title/tt15801594/) | [人生大事](https://movie.douban.com/subject/35460157/)
+   - Rate: 6/10
+   - Review:
+     ```
+     标准的三段式命题作文。一是感情铺垫到位故而不显做作，二是演员自然不整噱头。毒点自然是肆意摩擦观众智商，尤其是亲妈回归，质量直接打了二成折扣。
+     ```
+   - Watch: 2022.09.04
+
+## [一盘大棋](https://movie.douban.com/subject/35672520/)
+   - Rate: 2/10
+   - Review:
+     ```
+     爱奇艺亏损不是没有原因的。虽然剧本有一点故事性，但是导演完全没给拍出来。剧情就是三级跳，跳着跳着就变撑杆跳了。
+     ```
+   - Watch: 2022.10.08
+
+## [Yi Chang hen (Mei) You Bi Yao De Chun Wan](https://www.imdb.com/title/tt22535232/) | [一场很（没）有必要的春晚](https://movie.douban.com/subject/35765172/)
+   - Rate: 7/10
+   - Review:
+     ```
+     共匪的很多活动，都是为了办而办，这部片子也就是在讽刺此类现象。
+     另外，也从一个侧面反应了“一群中国人是条虫”的道理。
+     ```
+   - Watch: 2022.10.09
+
+## [Lou](https://www.imdb.com/title/tt5315210/) | [孤岛寻踪](https://movie.douban.com/subject/30371731/)
+   - Rate: 4/10
+   - Review:
+     ```
+     冷峻的画面很有质感，但除此之外别无长处。尤其是三个主角之间的感情，完全没有铺垫。
+     ```
+   - Watch: 2022.10.09
+
+
+## [Moon Man](https://www.imdb.com/title/tt14557302/) | [独行月球](https://movie.douban.com/subject/35183042/)
+   - Rate: 6/10
+   - Review:
+     ```
+     这就是典型的中国，一边骂一边抄。本片全面像美式电影学习，引领人类战胜危机。然后在结尾加上半土半洋的煽情。
+     能给6分完全是希望他们以后不要战狼化，回归初心。
+     不讽刺社会现实，那算什么喜剧？
+     ```
+   - Watch: 2022.10.10
+ 
+ ## [Thor: Love and Thunder](https://www.imdb.com/title/tt10648342/) | [雷神4：爱与雷霆](https://movie.douban.com/subject/34477861/)
+   - Rate: 3/10
+   - Review:
+     ```
+     傻逼银护风格，配狗屎彩虹色，这片只适合14岁以下观看。
+     唯一的亮点是Russell Crowe的Zeus，以及三个Zeusette。
+     ```
+   - Watch: 2022.10.11
+ 
+  ## [Hunt](https://www.imdb.com/title/tt6931658/) | [狩猎](https://movie.douban.com/subject/35160926/)
+   - Rate: 6/10
+   - Review:
+     ```
+     这片子无论是演员还是剧情，都有些用力过猛。
+     ```
+   - Watch: 2022.10.16
+ 
+  ## [Black Adam](https://www.imdb.com/title/tt6443346/) | [黑亚当](https://movie.douban.com/subject/26959697/)
+   - Rate: 4/10
+   - Review:
+     ```
+     典型只要特效不要剧情的DC爆米花。莫名其妙的出来一个正义议会，2老带2新，傻逼配打酱油。给Adam编的背景故事尬的要死还非要反转一下。
+     ```
+   - Watch: 2022.11.29
+ 
+ 
+ ## []() | []()
+   - Rate: /10
+   - Review:
+     ```
+     
+     ```
+   - Watch: 
+
