@@ -5,6 +5,7 @@ icon: home
 title: 秃顶大叔
 heroImage: /logo.png
 heroText: 半路出家，菜的抠脚
+bgImage: /background.jpg
 heroFullScreen: true
 tagline: 
 # projects:
