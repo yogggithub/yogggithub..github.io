@@ -8,14 +8,14 @@ date: 2022-12-04
 ## []() | []()
 - Rate: ![8/10](/assets/icon/40_star.png)
 - Review:
-    > 不看职员表，只想不到这种烂大街作品的导演会是Guy Ritchie。
+    > 
 - Watch: 
 
 ## [Operation Fortune: Rue de guerre](https://www.imdb.com/title/tt7985704/) | [金爆行动](https://movie.douban.com/subject/35199447/)
 - Rate: ![4/10](/assets/icon/20_star.png)
 - Review:
-    > 
-- Watch: 
+    > 不看职员表，只想不到这种烂大街作品的导演会是Guy Ritchie。
+- Watch: 2023-03-31
 
 
 ## [东北告别天团2](https://movie.douban.com/subject/35936401/)
