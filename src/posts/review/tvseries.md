@@ -11,6 +11,26 @@ date: 2022-12-04
     > 
 - Watch: 
 
+## [Mouse](https://www.imdb.com/title/tt13634792/) | [窥探](https://movie.douban.com/subject/35027568/)
+- Rate: ![7/10](/assets/icon/35_star.png)
+- Review:
+    > 整部剧剪辑非常凌乱，视角切换毫无章法，无论是剧本还是导演都用力过猛。警察局如同公共厕所，谁都可以乱翻证据。
+    > 好在节奏不松垮，逻辑漏洞还算不太过分。
+- Watch: 2023-11-10
+
+## [Misaeng](https://www.imdb.com/title/tt4240730) | [未生](https://movie.douban.com/subject/25870057/)
+- Rate: ![6/10](/assets/icon/30_star.png)
+- Review:
+    > 虽然是职场剧，但很缺乏代入感。鸡血含量太高，完全脱离了普通世界。
+- Watch: 2023-10-29
+
+## [365: Repeat the Year](https://www.imdb.com/title/tt12015466/) | [365：逆转命运的1年](https://movie.douban.com/subject/34902595/)
+- Rate: ![6/10](/assets/icon/30_star.png)
+- Review:
+    > 每个参与者都有执念，但又好像都缺乏了人性的贪欲。
+    > 剧情细想角度问题很多，情节推动是靠不断的抛弃角色和注入新内容推动的，缺乏破解谜题的悬疑氛围。
+- Watch: 2023-10-01
+
 ## [Bu liang zhi nian qing chu shi](https://www.imdb.com/title/tt26686597/) | [不良执念清除师](https://movie.douban.com/subject/35839999/)
 - Rate: ![6/10](/assets/icon/30_star.png)
 - Review:

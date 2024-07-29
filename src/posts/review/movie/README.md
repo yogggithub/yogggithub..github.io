@@ -1,137 +1,163 @@
 ---
 icon: archive
-date: 2022-12-04
+date: 2024-01-02
 ---
 
-# 2023年
-
 ## []() | []()
 - Rate: ![2/10](/assets/icon/10_star.png)
 - Review:
-    > 
+        
 - Watch: 
 
-## []() | []()
-- Rate: ![2/10](/assets/icon/10_star.png)
-- Review:
-    > 
-- Watch: 
-
-## [Never Say Never](https://www.imdb.com/title/tt20865116/) | [八角笼中](https://movie.douban.com/subject/35765480/)
-- Rate: ![5/10](/assets/icon/25_star.png)
-- Review:
-    > 八股文一样的体育片，剧情转折莫名其妙，情感铺陈欠缺，人物停留在剧本上，表演滞涩，外带一坨屎的“正能量”煽情。
-    > 唯一勉强可称为亮点就是王宝强。在折戟闹剧后，还敢于拍这种的类型片，并且演技也没拖后腿（可惜只会那两个模子：傻根，树先生）。
-- Watch: 2023-10-14
-
-## [The Equalizer 3](https://www.imdb.com/title/tt17024450/) | [伸冤人3](https://movie.douban.com/subject/35736400/)
-- Rate: ![6/10](/assets/icon/30_star.png)
-- Review:
-    > 系列停滞多年，男主年届古稀，如何能拍好一部动作片？本片给出了一种可行性方案。放慢节奏，铺垫情节，减少激烈对抗。
-    > 当然，这样也带来了故事合理性不强，主角无敌光环过重的负面效果。
-- Watch: 2023-10-04
-
-## [Barbie](https://www.imdb.com/title/tt1517268/) | [芭比](https://movie.douban.com/subject/4058939/)
-- Rate: ![5/10](/assets/icon/25_star.png)
-- Review:
-    > 这个女主算是选的比较成功，贴合了玩具的形象。
-    > 只是，无论如何努力的去塑造独立女性的形象，内核还是靠打拳。
-- Watch: 2023-09-27
-
-## [Godspeed](https://www.imdb.com/title/tt26935962/) | [人生路不熟](https://movie.douban.com/subject/35653205/)
+## [Lose to Win](https://www.imdb.com/title/tt28355533/) | [好像也没那么热血沸腾](https://movie.douban.com/subject/35882742/)
 - Rate: ![4/10](/assets/icon/20_star.png)
 - Review:
-    > 这样的女婿是留着祭天用的吗？
-- Watch: 2023-09-02
+        
+- Watch: 2024-07-28
 
-## [Wonder Family](https://www.imdb.com/title/tt12787014/) | [超能一家人](https://movie.douban.com/subject/35228789/)
-- Rate: ![2/10](/assets/icon/10_star.png)
-- Review:
-    > 烂是大家都知道的，我只是没想到这么烂。全片几乎没有笑点，感情的转折和爆发都让人莫名其妙。
-- Watch: 2023-08-19
-
-## [Fight Against Evil 2](https://www.imdb.com/title/tt28378143/) | [东北警察故事2](https://movie.douban.com/subject/35813934/)
+## [The Movie Emperor](https://www.imdb.com/title/tt28488862/) | [红毯先生](https://movie.douban.com/subject/35494829/)
 - Rate: ![5/10](/assets/icon/25_star.png)
 - Review:
-    > 拳拳到肉的打斗戏非常不错。
-    > 只是这个剧情，还是太虚幻了。
-- Watch: 2023-07-09
+        电影的出发点很好，讲述了一个旧时代的人试着融入新时代的故事。
+        但是，这个黑色幽默的度，有点过于冷笑话了。
+- Watch: 2024-07-19
 
-## [Ride On](https://www.imdb.com/title/tt15430628/) | [龙马精神](https://movie.douban.com/subject/35595615/)
+## [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/) | [疯狂的麦克斯：狂暴女神](https://movie.douban.com/subject/34996127/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        这剧本……
+        剧情推进全靠人物降智，主要情节故事发生的都莫名其妙，台词繁琐啰嗦且给不了观众信息，人物塑造摆造型，戏剧张力全靠推镜头和音乐，女主的表演就是个瞪眼睛，怕不是让中国流量去都行了。
+- Watch: 2024-07-27
+
+## [Under the Light](https://www.imdb.com/title/tt11448070/) | [坚如磐石](https://movie.douban.com/subject/33447633/)
 - Rate: ![2/10](/assets/icon/10_star.png)
 - Review:
-    > 卖港贼继续骗中国人钱，挺好。
-- Watch: 2023-06-05
+        看完就忘的宣传部产品。
+        所有人物的动机都显得那么奇怪。但凡对中国有一点了解，都不会相信中共官员会策划实施一起爆炸案。他们只会拼命的压榨、奋力的献媚
+- Watch: 2024-07-20
 
-## [Dungeons & Dragons: Honor Among Thieves](https://www.imdb.com/title/tt2906216/) | [龙与地下城：侠盗荣耀](https://movie.douban.com/subject/26584673/)
-- Rate: ![6/10](/assets/icon/30_star.png)
+## [Avatar: The Way of Water](https://www.imdb.com/title/tt1630029/) | [阿凡达：水之道](https://movie.douban.com/subject/4811774/)
+- Rate: ![5/10](/assets/icon/25_star.png)
 - Review:
-    > 本来没太高的期望，但质量出乎意料的不错。回到了漫威统治幻想电影之前的那种流水线水准。
-    > 希望多一些这样的优秀爆米花，淘汰垃圾漫威超英。
-- Watch: 2023-05-22
+        相比第一部对3D电影的推动，这一部无论是技术还是内核，都乏善可陈。三个多小时，讲了一个毫无新意的故事。无论是山、海或森林，在技术上，在呈现的效果上，都没有任何惊艳的点，甚至绿幕抠图越发的让观众出戏。
+        目前的美国文化界，被白左彻底污染，没有人再去关心社会的问题，沉浸在醉生梦死中。这种趋势在十年前漫威动效片大行其道的时候就开始了，现在是结出恶果。
+- Watch: 2024-07-19
 
-## [Home Coming](https://www.imdb.com/title/tt22049410/) | [万里归途](https://movie.douban.com/subject/26654184/)
-- Rate: ![1/10](/assets/icon/05_star.png)
+## [Twilight of the Warriors: Walled In](https://www.imdb.com/title/tt20316748/) | [九龙城寨之围城](https://movie.douban.com/subject/24284175/)
+- Rate: ![6/10](/assets/icon/10_star.png)
 - Review:
-    > 关键不是看你怎么说，而是看你怎么做。
-    > 中共在乌克兰跳梁小丑一样的表演，堪称史诗级的表演。
-- Watch: 2023-05-21
+        动作设计非常硬派，现在很少能欣赏到这种老式的拳拳到肉的动作电影了。
+        可惜，除此之外，别无优点。出场一个人物，你就能猜到结局。剧情更是，10分钟就知道全片走向。
+- Watch: 2024-07-07
 
-## [Five Hundred Miles](https://www.imdb.com/title/tt25502628/) | [交换人生](https://movie.douban.com/subject/35513968/)
-- Rate: ![3/10](/assets/icon/15_star.png)
+## [John Wick: Chapter 4](https://www.imdb.com/title/tt10366206/) | [疾速追杀4](https://movie.douban.com/subject/33455421/)
+- Rate: ![6/10](/assets/icon/10_star.png)
 - Review:
-    > 处处油腻，尬的抠脚
-- Watch: 2023-05-20
+        这个系列感觉明显到了该结束的时候了，无论是剧情还是男主抑或是动作设计。
+        剧情上，引入一个傻逼反派，刻意地在避免直接和High table冲突，但接下来呢？
+        男主的年纪在这里，力不从心何必强求？
+        动作设计在开始的两部还是很吸引人，好莱坞陷入超英泥潭之后，就很少有这种硬派风格的作品了。但随后的两部没能设计出有个性动作戏，看着男主一人滥杀难免审美疲劳。况且这种主角光环，与超英垃圾的区别是什么呢？
+- Watch: 2024-05-18
 
-## [Post Truth](https://www.imdb.com/title/tt18690030/) | [保你平安](https://movie.douban.com/subject/35457272/)
-- Rate: ![6/10](/assets/icon/30_star.png)
+## [Nothing Can't Be Undone by a HotPot](https://www.imdb.com/title/tt26689942/) | [没有一顿火锅解决不了的事](https://movie.douban.com/subject/36207371/)
+- Rate: ![5/10](/assets/icon/25_star.png)
 - Review:
-    > 电影的切入点很好，反应了网络世代下造谣的灾难影响和辟谣的艰难困苦。
-    > 问题主要是两个方面。首先，剧本对感情的铺垫不够，很难让观众认同男主的动机。当然，还有祖传的喂屎结局。
-    > 第二个问题更严重。说到谣言，当前中国最突出的问题必然是漫山遍野的官谣了。中国那当狗的文艺界肯定不敢真的描绘现实。
-- Watch: 2023-05-19
+        这种类型的电影已经算是悬疑类中最简单的了吧，但是剧本真是惨不忍睹。
+        优点就是不带脑子看，也不会看不懂。适合放空打发时间。
+        从最开始的暗语召唤就让人忍不住想吐槽WTF。箱子打开之后，人是死是活，不去探探鼻子，直接分猪肉？人物刻画上，九饼一会儿贪一会儿狠然后说自己“胆小”？整部剧情，和火锅有什么关系，叫这么个名字？
+        旋转镜头用一次挺好，但你全片不变，就让人很厌烦。
 
-## [Full River Red](https://www.imdb.com/title/tt21148018/) | [满江红](https://movie.douban.com/subject/35766491/)
+- Watch: 2024-05-16
+
+## [Suspect](https://www.imdb.com/title/tt27736289/) | [超意神探](https://movie.douban.com/subject/35725883/)
+- Rate: ![2/10](/assets/icon/10_star.png)
+- Review:
+        这剧情，搁三十年前估计能凑活看。      
+- Watch: 2024-04-26
+
+## [Dune: Part Two](https://www.imdb.com/title/tt15239678/) | [沙丘2](https://movie.douban.com/subject/35575567/)
 - Rate: ![5/10](/assets/icon/10_star.png)
 - Review:
-    > 张艺谋不会拍悬疑，这可算是个定论了。
-    > 电影看完，就是搞笑但观众不笑，悬疑又逻辑不通，煽情如空中楼阁。演员也是油腻的油腻，木脸的木脸，仔细看看岳云鹏那随时要笑场的脸，也就知道卡司的档次了。
-    > 无论是喜剧还是悬疑，最重要的就是剧本。可惜中国整个娱乐业，包括电影，只剩下献媚和段子，怕不是过几年全是抖音大电影。
-- Watch: 2023-05-15
+        这王子有什么是自己干的？老师是敌人礼送回国，忠仆是自己洗脑练成的，士兵是老妈妹妹忽悠瘸的。
+        曾经给观众震撼的巨物审美，到第二部几乎被抛弃（只剩下个决斗场，还非常潦草），剧情也是逻辑下线只剩狗血，铺垫许久的Baron被一刀砍翻，新出的反派健男也是一场格斗就死。外加上比第一部更不明所以的剪辑和节奏。
+        整一个败絮典范。
+- Watch: 2024-04-21
 
-## [The Wandering Earth II](https://www.imdb.com/title/tt13539646/) | [流浪地球2](https://movie.douban.com/subject/35267208/)
+## [The Killing Performance](https://www.imdb.com/title/tt31253543/) | [戏杀](https://movie.douban.com/subject/36493954)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        悬疑电影最大的问题，就是剧情逻辑漏洞大，说不通。
+- Watch: 2024-04-21
+
+## [Yolo](https://www.imdb.com/title/tt28151876/) | [热辣滚烫]()
 - Rate: ![5/10](/assets/icon/25_star.png)
 - Review:
-    > 给加3星，鼓励下勉强追上时代的特效。
-    > 剧情、叙事、表演、思想，都可谓是中国电影“坑钱无极限”的典型代表。剧情充斥着垃圾战狼桥段，功力不足还非要扯两条毫无关联的叙事线，表演就是定格摆POSE毫无感情，最后加上“屁民都是渣”的共产党思想。
-    > 投票消灭一半人类，扯掉共产党的遮羞布，露出那超越灭霸丑陋嘴脸与野蛮思路。当然，中共的手段很有效，靠金钱美色欲望炮弹，喂的白左眉开眼笑。
-- Watch: 2023-04-10
+        看到她这么卖力的营销自己，给多加两星吧。
+        简单讲，没有任何感情支点的意淫之作。
+        曾经，我们嘲笑劳动人民，说他们总幻想“皇帝的金锄头”。现在，中国的流量阶层，也开始意淫“穷人的一百斤”了。
+        整体剧情在照抄的基础上，试图用各种“金锄头”桥段来完成本地化，来展现他们的“共情”。只可惜，他们根本不明白人民的痛点是什么。
+        一句话概括全片的情节，就是匪夷所思莫名其妙牵强附会。
+- Watch: 2024-04-21
 
-## [Cyber Heist](https://www.imdb.com/title/tt20204936/) | [断网](https://movie.douban.com/subject/35043401/)
+## [Dead Man](https://www.imdb.com/title/tt30830309/) | [死人](https://movie.douban.com/subject/35657817/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        其实，如果视线能放低一些，把这个故事放到底层老百姓，会更有戏。
+- Watch: 2024-04-14
+
+## [Argylle](https://www.imdb.com/title/tt15009428/) | [阿盖尔：神秘特工](https://movie.douban.com/subject/35520056/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+        烂俗的剧情，配上拉跨的节奏，外加不要钱的特效。
+        现在没人愿意拍实景了么？
+- Watch: 2024-04-14
+
+## [If You Are the One 3](https://www.imdb.com/title/tt30253936/) | [非诚勿扰3](https://movie.douban.com/subject/26769592/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        油腻。从配色，到剧情，到演技，处处透着那种独属于中国老男人的油腻感。
+        
+- Watch: 2024-03-23
+
+## [The Pig, the Snake and the Pigeon](https://www.imdb.com/title/tt29319990/) | [周處除三害](https://movie.douban.com/subject/36151692)
+- Rate: ![6/10](/assets/icon/30_star.png)
+- Review:
+        看似简单的剧情，分割明显的几段故事，但就是过渡自然，每个都完成度很高。怪不得碾压了中共的垃圾电影。
+        三害对应了贪嗔痴这三种妄念，凡俗需斩断才能成佛。
+- Watch: 2024-03-10
+
+## [Johnny Keep Walking!](https://www.imdb.com/title/tt27922369/) | [年会不能停！](https://movie.douban.com/subject/35725869)
+- Rate: ![6/10](/assets/icon/30_star.png)
+- Review:
+        不错的喜剧片，半部。
+        壮尼在入职之后的部分，每个笑点应该抓住打工人的心，创作者在视角放在打工人，把中国职场的现状扒了个鲜血淋漓。
+        但是，永远还是有但是。“正能量”/“主旋律”是中国电影拉不出来的屎，祸害了这锅好粥。
+        为什么中国人总觉得，“晴天老爷”才是解决问题的唯一方法，而不是翻身作主，自己创造自己的命运？
+- Watch: 2024-02-25
+
+## [No More Bets](https://www.imdb.com/title/tt28076784/) | [孤注一掷](https://movie.douban.com/subject/35267224/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        及格的反诈宣传，不及格的电影。
+        太多时长浪费在毫无意义的破案上，对犯罪过程就非常敷衍的用一个故事就一带而过了。犯罪团伙对新入伙的人进行了哪些措施让他们安心行骗，就靠晨会几句口号？对不服管理的刺头有哪些手段，仅是杀鸡吓猴？恩威并施只靠发钱小游戏？被腐蚀的地方势力对中共一点反抗没有？中共没头苍蝇一样的断卡，坑害了多少无辜？
+        浪费了这个题材。
+- Watch: 2024-02-04
+
+## [Bursting Point](https://www.imdb.com/title/tt29632851/) | [爆裂点](https://movie.douban.com/subject/36010136/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        为了塞演员/照顾关系户，铺陈的线太多了。结果就是喧宾夺主，剧情越到后面越莫名其妙，人物动机全无行为都是没头苍蝇。
+- Watch: 2024-01-28
+
+## [The Wild](https://www.imdb.com/title/tt14916052/) | [野兽们的战争](https://movie.douban.com/subject/35634628/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        剧情零碎，看的人头疼。只是朴成雄越老越有气质了。
+- Watch: 2024-01-28
+
+## []() | [飞来横财](https://movie.douban.com/subject/36710901/)
 - Rate: ![2/10](/assets/icon/10_star.png)
 - Review:
-    > 看似在讲洗钱，其实就是在洗钱。
-- Watch: 2023-04-05
-
-## [Operation Fortune: Rue de guerre](https://www.imdb.com/title/tt7985704/) | [金爆行动](https://movie.douban.com/subject/35199447/)
-- Rate: ![4/10](/assets/icon/20_star.png)
-- Review:
-    > 不看职员表，只想不到这种烂大街作品的导演会是Guy Ritchie。
-- Watch: 2023-03-31
-
-
-## [东北告别天团2](https://movie.douban.com/subject/35936401/)
-- Rate: ![4/10](/assets/icon/20_star.png)
-- Review:
-    > 导演以为的感情，只是简单的桥段堆砌，并不能打动观众。
-    > 以这种行业的背景，有太多的珠玉在前。
-- Watch: 2023-01-27
-
-## [Return to Dust](https://www.imdb.com/title/tt17097088/) | [隐入尘烟](https://movie.douban.com/subject/35131346/)
-- Rate: ![8/10](/assets/icon/40_star.png)
-- Review:
-    > 中国文艺界最缺乏的，就是这种沉入社会，感受阶层的精神与作品。出于对导演、编剧的鼓励，给到8分。
-    > 这部电影最打动人的，就是两个苦命人相濡以沫相知相守的生活。是夜归路的上一点的电筒光，一杯换了几次捂在怀中的热水。
-    > 但同时，这部电影也不知是默契的或有意的，忽略了主角所受各种欺压背后原因的探究。导致了电影的立意与跟脚变成了黄沙。
-- Watch: 2023-01-23
+        真是瞎了我的氪金狗眼。
+- Watch: 2024-01-28
 

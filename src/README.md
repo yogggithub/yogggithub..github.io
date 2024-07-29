@@ -2,7 +2,7 @@
 home: true
 layout: Blog
 icon: home
-title: 秃顶大叔
+title: 半称心斋
 heroImage: /logo.png
 heroText: 半路出家，菜的抠脚
 bgImage: /background.jpg
