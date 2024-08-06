@@ -1,7 +1,10 @@
 ---
 icon: archive
-date: 2024-01-02
+date: 2024-08-06
 ---
+
+# 电影映画
+
 
 ## []() | []()
 - Rate: ![2/10](/assets/icon/10_star.png)
@@ -9,10 +12,48 @@ date: 2024-01-02
         
 - Watch: 
 
+## [Bad Boys: Ride or Die](https://www.imdb.com/title/tt4919268/) | [绝地战警：生死与共](https://movie.douban.com/subject/26586556/)
+- Rate: ![2/10](/assets/icon/10_star.png)
+- Review:
+        Will Smith 你还是就躺平好了，别出来祸祸了。
+- Watch: 2024-08-06
+
+## [Hijack 1971](https://www.imdb.com/title/tt31624258/) | [劫机1971](https://movie.douban.com/subject/36065756/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        韩国人在多角度反思历史教训，中国人在醉生梦死中为虎作伥。
+- Watch: 2024-08-05
+
+## [Eye for an Eye 2](https://www.imdb.com/title/tt30972810/) | [目中无人2](https://movie.douban.com/subject/36212386/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+        除了传统的硬派动作设计，别无其他优点。
+- Watch: 2024-08-04
+
+## [Rob N Roll](https://www.imdb.com/title/tt30958950/) | [临时劫案](https://movie.douban.com/subject/35491115/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        也许十五年前，这是一个好剧本。但放到今天，类‘三个大烟枪’的故事已经没有新意了，更何况导演功力不够，根本没拍出多线叙事的精髓。
+- Watch: 2024-08-03
+
+## [Crisis Negotiators](https://www.imdb.com/title/tt32338725/) | [谈判专家](https://movie.douban.com/subject/36401888/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        剧本怕不是三十年前写的。
+        5分里面有4分是给了这句台词：宁愿去做1万港币的义工，都不去干5万港币的黑警。
+        不向恶魔低头，不当恶魔的奴仆，不欺辱公民。
+- Watch: 2024-08-02
+
+## [Life Hotel](https://www.imdb.com/title/tt29632792/) | [来福大酒店](https://movie.douban.com/subject/36173819/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        勉强及格的命题作文。看5分钟就足够猜到全部故事了。
+- Watch: 2024-08-01
+
 ## [Lose to Win](https://www.imdb.com/title/tt28355533/) | [好像也没那么热血沸腾](https://movie.douban.com/subject/35882742/)
 - Rate: ![4/10](/assets/icon/20_star.png)
 - Review:
-        
+        完全笑不出来的喜剧片。而且也感受不到对残障人士的关爱。
 - Watch: 2024-07-28
 
 ## [The Movie Emperor](https://www.imdb.com/title/tt28488862/) | [红毯先生](https://movie.douban.com/subject/35494829/)
