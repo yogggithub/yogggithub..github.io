@@ -12,6 +12,128 @@ date: 2024-08-06
         
 - Watch: 
 
+## [Year 10](https://www.imdb.com/title/tt21154574/) | [第十年](https://movie.douban.com/subject/37106644/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+        剧情BUG太多：男主前后反差的战斗力，野狗不咬人，食人部落瞎眼，等等等等
+- Watch: 2024-12-13
+
+## [The Substance](https://www.imdb.com/title/tt17526714/) | [某种物质](https://movie.douban.com/subject/35882838/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        是不是女导演就可以肆意消费女性？
+- Watch: 2024-11-17
+
+## [Upstream](https://www.imdb.com/title/tt32121131/) | [逆行人生](https://movie.douban.com/subject/36774001/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        毒鸡汤一碗。歌颂普罗大众的艰辛，来治疗受难者的苦痛？
+        被算法给淘汰，被算法判封号，靠算法成单王，靠算法回办公楼？把罪恶又推给资本家呗，就真把吃人的制度当成宝！
+- Watch: 2024-11-16
+
+## [Person of the Year](https://www.imdb.com/title/tt33056714/) | [无名之火](https://movie.douban.com/subject/36975801/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        试图反应中国特色的网络暴力，但剧本没抓住核心，而最后为了正能量又强行反转，让整个故事更加的没有说服力。
+- Watch: 2024-11-03
+
+## [A Frozen Rage](https://www.imdb.com/title/tt33111343/) | [一雪前耻](https://movie.douban.com/subject/36882158/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+        莫名其妙的剧情，毫无笑点的段子。
+- Watch: 2024-11-02
+
+## [Endless Journey](https://www.imdb.com/title/tt28212677/) | [三大队](https://movie.douban.com/subject/35208463/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        毫无亮点的献礼片。强行洗白殴打致人死亡的恶警，不知道他们之前破案中有多少是屈打成招的冤假错案。
+- Watch:2024-10-28
+
+## [The Last Frenzy](https://www.imdb.com/title/tt30768761/) | [末路狂花钱](https://movie.douban.com/subject/36430322/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+        没有转折，毫无笑点
+- Watch: 2024-10-27
+
+## [Dust to Dust](https://www.imdb.com/title/tt11000406/) | [第八个嫌疑人](https://movie.douban.com/subject/34436452/)
+- Rate: ![5/10](/assets/icon/10_star.png)
+- Review:
+        逻辑漏洞太大了。明知道不能开枪，没有做预案？放几个同伙回乡去浪，没有让避风头？
+        大鹏的演技有提升，只是感觉演瓷砖师傅用力过头了，吃苦耐劳吸引不了老板女儿的。
+- Watch: 2024-10-27
+
+## [Last Suspect](https://www.imdb.com/title/tt20836144/) | [拯救嫌疑人](https://movie.douban.com/subject/35875180)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        找到凶器不上交，就只为了羞辱检方？
+- Watch: 2024-10-27
+
+## [The Invisible Guest](https://www.imdb.com/title/tt27736273/) | [瞒天过海](https://movie.douban.com/subject/35192611/)
+- Rate: ![4/10](/assets/icon/40_star.png)
+- Review:
+        这痴肥油腻男，也有人看的上？既然有干脏活的手下，为啥还需要自己动手？
+- Watch: 2024-10-26
+
+## [Lost in the Stars](https://www.imdb.com/title/tt17507018/) | [消失的她](https://movie.douban.com/subject/35660795/)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        陈思城专业翻拍一百部，部部都比原作烂。
+- Watch: 2024-10-26
+
+## [A Place Called Silence](https://www.imdb.com/title/tt32553390/) | [默杀](https://movie.douban.com/subject/36877322)
+- Rate: ![4/10](/assets/icon/20_star.png)
+- Review:
+        整部的剧情就是导演自我感动，所有人物的动机都非常奇怪，逻辑不能说漏洞，完全就是没有。
+- Watch: 2024-10-20
+
+## [Alien: Romulus](https://www.imdb.com/title/tt18412256/) | [异形：夺命舰](https://movie.douban.com/subject/35792500/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        可能是评分太高抬高了期待，实际看完感觉失望不小。
+        整部剧情设计回归原始的“异形”系列，狭小逼仄的空间站，可怕的外星生物猎杀。
+        但是，人物的动机和行动显得很扭曲。还有，人类武器可以射杀异形，后面几部怎么圆？
+- Watch: 2024-10-20
+
+## [The Platform 2](https://www.imdb.com/title/tt27729779/) | [饥饿站台2](https://movie.douban.com/subject/36406672/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        前传性质，但相比第一部，质量和深度差距较大。
+        第一部讲述的是人性，是阶级。这部前传选择了规则。可惜规则相比人性，天生就浅薄了很多。
+        然后，本部拍摄手法上也不像第一部那样留白很多。外加多次插入底层景象，看似隐喻很多但实际观感缺很差，因为不给观众思考品味的时间。
+- Watch: 2024-10-06
+
+## [The Ruins]() | [恐怖废墟](https://movie.douban.com/subject/2132486/)
+- Rate: ![4/10](/assets/icon/10_star.png)
+- Review:
+        作为恐怖片，铺垫的有点长，而且合理性欠缺，严重影响了整体品质。
+        植物有很多弱点，但好像祭品团一点也没想着去尝试。
+- Watch: 2024-08-25
+
+## [It Follows](https://www.imdb.com/title/tt3235888/) | [它在身后](https://movie.douban.com/subject/25870483/)
+- Rate: ![5/10](/assets/icon/10_star.png)
+- Review:
+        很多人觉得这是反HIV宣传，但实际左派恶堕思潮（Woke virus）也非常的契合本片，而且致死率更高，对社会的危害更大。
+- Watch: 2024-08-24
+
+## [Project Silence](https://www.imdb.com/title/tt25808194/) | [寂静计划](https://movie.douban.com/subject/35064540/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+        人不如狗。
+- Watch: 2024-08-17
+
+## [The Killer](https://www.imdb.com/title/tt1121948/) | [喋血双雄](https://movie.douban.com/subject/3733937/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+        品质符合其网大定位。无论是演技、角色塑造、剧情铺陈、情感递进，无一可取之处。
+- Watch: 2024-08-11
+
+## [Kingdom of the Planet of the Apes](https://www.imdb.com/title/tt11389872/) | [猩球崛起：新世界](https://movie.douban.com/subject/36069854/)
+- Rate: ![5/10](/assets/icon/25_star.png)
+- Review:
+        这剧本怕不是AI写的吧。基本就是把第一部反过来，现在是猩猩看人戏。连猩猩都知道“枪杆子里面出政权”，肤浅的左派还想着熬鹰打猎呢。
+        实在不知道留个续集的口子有啥意思。
+- Watch: 2024-08-10
+
 ## [Bad Boys: Ride or Die](https://www.imdb.com/title/tt4919268/) | [绝地战警：生死与共](https://movie.douban.com/subject/26586556/)
 - Rate: ![2/10](/assets/icon/10_star.png)
 - Review:

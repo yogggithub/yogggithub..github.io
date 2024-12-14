@@ -11,6 +11,22 @@ date: 2022-12-04
     > 
 - Watch: 
 
+## [San da dui](https://www.imdb.com/title/tt29363617/) | [三大队](https://movie.douban.com/subject/36178641/)
+- Rate: ![3/10](/assets/icon/15_star.png)
+- Review:
+    > 一集弃。
+    > 剧本相比电影版差了太多。第一集中加了很多莫名其妙的剧情，比如罪犯的女儿，比如二大队，比如不合理的罪犯背景。
+    > 虽然秦昊的演技比张译好不少，但到出狱后的状态根本不符合人设。
+- Watch: 2024-10-31
+
+## [Fan ren ge](https://www.imdb.com/title/tt29899745/) | [凡人歌](https://movie.douban.com/subject/36189205)
+- Rate: ![6/10](/assets/icon/30_star.png)
+- Review:
+    > 给个及格分鼓励一下吧，起码隔靴搔了一点点痒。
+    > 问题，主角人设漂浮，家庭背景悬浮，连人生复苏的希望都是要被清零打的稀碎的家庭餐饮。更别提里面婊到一定境界的女配角了。
+    > 当然，得鼓励剧本敢于表现了一定中国目前职场的现状，PUA横行，用命挣钱。
+- Watch: 2024-10-15
+
 ## [Mouse](https://www.imdb.com/title/tt13634792/) | [窥探](https://movie.douban.com/subject/35027568/)
 - Rate: ![7/10](/assets/icon/35_star.png)
 - Review:
